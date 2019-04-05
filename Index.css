@@ -1,0 +1,29 @@
+#back {
+	background-color: yellow;
+}
+#ref {
+	color: blue;
+	height: 100px;
+}
+#resume {
+	color: green;
+	height: 100px;
+}
+#MesExperiences {
+	color: grey;
+	height: 100px;
+}
+#MesCompetences {
+	color: red;
+	height: 100px;
+}
+#MesCertif {
+	color: orange;
+	height: 100px;
+}
+h2 {
+	color: purple;
+	font-family: Impact, Charcoal, sans-serif;
+	font-size: 30px;
+	letter-spacing: 1px;
+}
